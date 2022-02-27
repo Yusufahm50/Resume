@@ -1,0 +1,27 @@
+#header,#para1
+{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.p2
+{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+#pPara2
+{
+    float: left;
+}
+#pPara3
+{
+    float: right;
+}
+
+#sub1
+{
+    font-weight: bold;
+}
